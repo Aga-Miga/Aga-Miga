@@ -2,7 +2,7 @@
 I'm Aga                                                
 She/her                            
 i program stuff for fun                                   
-python, c++
+python, c++ some js
 
 <!--
 **Aga-Miga/Aga-Miga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
